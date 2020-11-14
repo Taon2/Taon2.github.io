@@ -175,7 +175,7 @@
                   "width": "auto",
                   "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
                   "&::after": {
-                    "right": "0.5rem"
+                    "left": "0.5rem"
                   }
                 },
                 ".dropdown-submenu": {
